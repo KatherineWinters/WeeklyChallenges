@@ -62,9 +62,6 @@ namespace ChallengesWithTestsMark8
                     return IsUpper && IsLower && IsNumber ;
         }
 
-
-
-
         public char GetFirstLetterOfString(string val)
         {
             return val.First();
